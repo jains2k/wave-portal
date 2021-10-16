@@ -1,4 +1,6 @@
-# Basic Sample Hardhat Project
+Ethereum Smart Contract project
+Uses solidity to define the contract
+
 
 to deploy the project to test rinkeby network, use this command:
 `npx hardhat run scripts/deploy.js --network rinkeby`
