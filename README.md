@@ -1,4 +1,4 @@
-Ethereum Smart Contract project
+## Ethereum Smart Contract project
 Uses solidity to define the contract
 
 Update alchemy url and your wallet key into the .env file.
